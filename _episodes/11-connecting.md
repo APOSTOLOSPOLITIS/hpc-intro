@@ -300,7 +300,7 @@ See the [PuTTY documentation][putty-agent].
 ### Transfer Your Public Key
 
 {% if site.remote.portal %}
-Visit [{{ site.remote.portal }}]({{ site.remote.portal }}) to upload your SSH
+Visit [{{ site.remote.portal }}]({{ site.remote.portal }}) to upload your SSH  # THE WEBSITE DOESN'S WORK
 public key. (Remember, it's the one ending in `.pub`!)
 
 {% else %}
